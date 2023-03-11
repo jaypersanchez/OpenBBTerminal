@@ -324,7 +324,7 @@ def welcome_message():
 
     Prints first welcome message, help and a notification if updates are available.
     """
-    console.print(f"\nWelcome to OpenBB Terminal v{obbff.VERSION}")
+    console.print(f"\nWelcome to Satoshi Terminal v{obbff.VERSION}")
 
     if obbff.ENABLE_THOUGHTS_DAY:
         console.print("---------------------------------")

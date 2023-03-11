@@ -131,7 +131,7 @@ To demonstrate the usage of the menu, the <a href="https://www.statsmodels.org/d
 │     bgod               Breusch-Godfrey autocorrelation tests with lags on the residuals of the regression                                                                                                          │
 │     bpag               Breusch-Pagan heteroscedasticity test on the residuals of the regression                                                                                                                    │
 │                                                                                                                                                                                                                    │
-╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── OpenBB Terminal v2.4.0 (https://openbb.co) ─╯
+╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── Satoshi Terminal v2.4.0 (https://satoshiterminal.io) ─╯
 ```
 
 Beneath `Loaded files and data columns` you can find the longley dataset and its columns. You can create an alias for this dataset with the `-a` argument as shown within the <a href="/terminal/reference/econometrics/ols" target="_blank" rel="noreferrer noopener">ols</a> command. To see a portion of this dataset, the <a href="/terminal/reference/econometrics/show" target="_blank" rel="noreferrer noopener">show</a> command can be used as shown below:

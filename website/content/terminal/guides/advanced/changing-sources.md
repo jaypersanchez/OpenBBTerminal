@@ -17,7 +17,7 @@ Many commands have multiple datasources attached to it. A great example is `/sto
 │     get                get available data sources associated with command                                                                                                                                          │
 │     set                set default data source for a command                                                                                                                                                       │
 │                                                                                                                                                                                                                    │
-╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── OpenBB Terminal v2.0.0rc1 (https://openbb.co) ─╯
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── Satoshi Terminal v2.0.0rc1 (https://satoshiterminal.io) ─╯
 ```
 
 For example, if you would like to change the default data provider from the `income` command from the `stocks/fa` menu you can first run the command `get` following by `stocks_load`. This returns the following:
